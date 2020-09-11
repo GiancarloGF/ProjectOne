@@ -1,0 +1,39 @@
+*{
+    font-family: Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+header{
+    background-color: aqua;
+    padding: 20px;
+}
+
+main{
+    background-color: burlywood;
+    padding: 20px;
+}
+
+footer{
+    background-color: chocolate;
+    padding: 20px;
+}
+
+section{
+    background-color: darkcyan;
+}
+#titulo_principal{
+    background-color: darkred;
+    
+}
+nav{
+    background-color: darkmagenta;
+    
+}
+.contacto{
+    background-color: darkslategrey;
+}
+.por{
+    background-color: gold;
+}
