@@ -22,3 +22,9 @@
 #paint h2{
     background-color: skyblue;
 }
+.cost{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
+    ;
+    color:blue;
+}
