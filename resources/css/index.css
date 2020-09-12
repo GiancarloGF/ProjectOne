@@ -3,6 +3,7 @@
     font-size: 100px;
     color:Khaki;
     text-align: center;
+    
 
 }
 .titlesection h2{
@@ -10,9 +11,13 @@
     font-size: 32px;
     font-weight: bold;
     color: white;
-    
-    
 }
+
+#cabeza{
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+}
+    
+    
 #brushes h2{
     background-color: mediumspringgreen;
 }
